@@ -1,0 +1,7 @@
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\bin\Debug\gpaCalculator.exe.config
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\bin\Debug\gpaCalculator.exe
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\bin\Debug\gpaCalculator.pdb
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\obj\Debug\gpaCalculator.csproj.AssemblyReference.cache
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\obj\Debug\gpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\obj\Debug\gpaCalculator.exe
+C:\Users\Agidi Daniel George\Desktop\c#\C#Tutorials\gpaCalculator\gpaCalculator\obj\Debug\gpaCalculator.pdb
