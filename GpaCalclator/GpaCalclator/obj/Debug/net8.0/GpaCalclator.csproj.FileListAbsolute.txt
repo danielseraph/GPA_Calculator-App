@@ -1,0 +1,14 @@
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\bin\Debug\net8.0\GpaCalclator.exe
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\bin\Debug\net8.0\GpaCalclator.deps.json
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\bin\Debug\net8.0\GpaCalclator.runtimeconfig.json
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\bin\Debug\net8.0\GpaCalclator.dll
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\bin\Debug\net8.0\GpaCalclator.pdb
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.AssemblyInfoInputs.cache
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.AssemblyInfo.cs
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.csproj.CoreCompileInputs.cache
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.dll
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\refint\GpaCalclator.dll
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.pdb
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\GpaCalclator.genruntimeconfig.cache
+C:\Users\Agidi Daniel George\Desktop\C-Sharp\GpaCalclator\GpaCalclator\obj\Debug\net8.0\ref\GpaCalclator.dll
